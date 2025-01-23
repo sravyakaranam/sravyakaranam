@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm a passionate software engineer with expertise in **AI*
 ---
 
 ### 📌 About Me  
-- 🌱 **Currently:** Pursuing Master's in Computer Science at &nbsp;&nbsp;<img src="https://www.ncbionetwork.org/sites/default/files/styles/1280x720/public/1280x720-images/ncsu.jpg?itok=iIhvOAd_" alt="NC State University Logo" width="50"/>   &nbsp;&nbsp; **NC State University**   
+- 🎓 **Currently:** Pursuing Master's in Computer Science at &nbsp;&nbsp;<img src="https://www.ncbionetwork.org/sites/default/files/styles/1280x720/public/1280x720-images/ncsu.jpg?itok=iIhvOAd_" alt="NC State University Logo" width="50"/>   &nbsp;&nbsp; **NC State University**   
 - 🛠️ **Specialized In:** Cloud computing (AWS), Dockerized applications, AI projects, and RESTful APIs  
 - 🤝 **Open To:** Full-time roles in software engineering, cloud, and AI domains  
 - 🌟 **Fun Fact:** I'm an artist 🎨 and a beginner violinist 🎻  
