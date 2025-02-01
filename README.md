@@ -30,22 +30,15 @@ Welcome to my GitHub! I'm a passionate software engineer with expertise in **AI*
 
 ---
 
-### 💼 Featured Projects  
-Here are some of the projects I’m proud of:  
+### 💼 Featured Projects   
 
-
----
-
-### 📈 GitHub Stats  
-![Sravya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sravyakaranam&show_icons=true&hide=prs,issues&count_private=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sravyakaranam&layout=compact&theme=radical&hide=html,css)
 
 ---
 
 ### 📬 Connect With Me  
 - **Email:** [skarana@ncsu.edu](mailto:skarana@ncsu.edu)  
 - **LinkedIn:** [linkedin.com/in/sravya-karanam](https://linkedin.com/in/sravyakaranam)  
-- **Portfolio:** [Your Portfolio Website](https://your-portfolio.com)  
+- **Portfolio:** [Your Portfolio Website](https://sravyakaranam.github.io/)  
 
 ---
 
