@@ -38,7 +38,7 @@ Welcome to my GitHub! I'm a passionate software engineer with expertise in **AI*
 ### 📬 Connect With Me  
 - **Email:** [skarana@ncsu.edu](mailto:skarana@ncsu.edu)  
 - **LinkedIn:** [linkedin.com/in/sravya-karanam](https://linkedin.com/in/sravyakaranam)  
-- **Portfolio:** [Your Portfolio Website](https://sravyakaranam.github.io/)  
+- **Portfolio:** [My Portfolio Website](https://sravyakaranam.netlify.app/)  
 
 ---
 
